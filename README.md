@@ -12,7 +12,6 @@ I am an aspiring Software Engineer wanting to transition into the tech industry.
 
 ## 📫 How to reach me
 - [**LinkedIn**](https://www.linkedin.com/in/jordan-mackenzie-a24027149/)
-- **Project Link:** [Beatrice Chat App](https://github.com/derkajecht/Beatrice.git)
 
 <!--
 **derkajecht/derkajecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
